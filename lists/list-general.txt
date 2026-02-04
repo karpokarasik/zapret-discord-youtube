@@ -45,3 +45,17 @@ betterttv.net
 7tv.app
 7tv.io
 localizeapi.com
+roll20.net
+files.d20.io
+signin.aws.amazon.com
+cloudfront.net
+s3.amazonaws.com
+awsstatic.com
+amazonaws.com
+awsapps.com
+aws.amazon.com
+cloudflare.com
+cloudflare.net
+one.one.one.one
+cfargotunnel.com
+www.youtube.com
